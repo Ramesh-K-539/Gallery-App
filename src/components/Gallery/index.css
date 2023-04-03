@@ -1,0 +1,48 @@
+/* Write your code here. */
+
+* {
+  box-sizing: border-box;
+  font-family: 'roboto';
+}
+
+body {
+  margin: 0px;
+}
+
+.bg-container {
+  height: 100vh;
+  background-size: cover;
+  background-color: #ffffff;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 35px;
+  padding-bottom: 20px;
+}
+
+.full-screen-img {
+  width: 60%;
+  height: 58%;
+  border-radius: 10px;
+}
+
+.heading {
+  color: #1e293b;
+  font-size: 25px;
+  font-weight: 600;
+  padding-top: 20px;
+}
+
+.description {
+  color: #64748b;
+  font-size: 19px;
+  font-weight: 400;
+  padding-top: 20px;
+}
+
+.mini-img-list {
+  display: flex;
+  flex-direction: row;
+  padding-top: 20px;
+  padding-left: 0px;
+  margin-left: 0px;
+}

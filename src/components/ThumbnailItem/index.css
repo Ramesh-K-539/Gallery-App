@@ -1,0 +1,25 @@
+/* Write your code here. */
+
+.list-item {
+  list-style-type: none;
+  margin-right: 20px;
+}
+
+.img {
+  height: 60px;
+  width: 60px;
+  border-radius: 6px;
+  opacity: 0.5;
+}
+
+.custom-btn {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+  padding: 0px;
+}
+
+.active {
+  opacity: 1;
+}
